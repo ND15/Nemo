@@ -1,0 +1,124 @@
+baseURL = "https://nd15.github.io/nemo/"
+title = "Nemo"
+paginate = 5
+theme = "PaperMod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+  [languages.en.taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[[languages.en.menu.main]]
+name = "Archive"
+url = "archives"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 4
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+title = "Nikhil's Blog"
+description = "This website contains my blog posts on different topics on various topics which includes ML, DL, DSP and Optimization."
+keywords = [ "Blog", "Portfolio", "ML", "DL" ]
+defaultTheme = "auto"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowToc = true
+
+  [params.profileMode]
+  enabled = false
+  title = "Welcome!"
+  subtitle = "This is my personal website where I put out blogs on different posts on a variety of topics. Currently pursuing my undergraduate degree in CS"
+
+    [[params.profileMode.buttons]]
+    name = "Blogs"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Projects"
+    url = "projects"
+
+  [params.homeInfoParams]
+  Title = "Hi there 👋"
+  Content = """
+Welcome to my blog.
+- This is my personal website where I put out blogs on different posts as I try to learn a variety of topics. Currently pursuing my undergraduate degree in CS.
+- I make 3D art in my freetime.😊
+"""
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/ND15"
+
+  [[params.socialIcons]]
+  name = "Rss"
+  url = "index.xml"
+
+  [params.label]
+  text = "Nemo's Home"
+  icon = "favicon-96x96.png"
+  iconHeight = 35
+
+  [params.assets]
+  disableHLJS = true
+  favicon = "favicon-96x96.png"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+noClasses = false
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
