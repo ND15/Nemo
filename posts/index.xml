@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Nemo</title>
+    <link>https://nd15.github.io/nemo/posts/</link>
+    <description>Recent content in Posts on Nemo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nd15.github.io/nemo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Forward and Back-Propagation in RNNs</title>
+      <link>https://nd15.github.io/nemo/posts/rnn/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nd15.github.io/nemo/posts/rnn/</guid>
+      <description>Recurrent Neural Network(RNN) RNN Diagram Internal Architecture of RNN Internal RNN Architecture
+Forward Propagation In forward propagation, the input data is fed into the RNN in a forward direction to calculate the output at each timestep, for simplicity assume that each timestep is basically a word in a sentence so first timestep would indicate the input of the first word to the network, the input data passed through the input and hidden layer to the output layer where the output is predicted.</description>
+    </item>
+    
+  </channel>
+</rss>
