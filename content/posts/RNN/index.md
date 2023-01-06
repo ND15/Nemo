@@ -1,7 +1,7 @@
 ---
 author: Nemo
 title: Notes on Forward and Back-Propagation in RNNs
-date: 2023-01-05
+date: 2023-01-06
 description: 
 aliases: ["/RNN"]
 math: true
