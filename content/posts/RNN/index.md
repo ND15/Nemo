@@ -3,6 +3,7 @@ author: Nemo
 title: Notes on Forward and Back-Propagation in RNNs
 date: 2023-01-06
 description: 
+summary: Notes consisting of the complete derivation of the forward and backpropagation rules in RNN.
 aliases: ["/RNN"]
 math: true
 ShowBreadCrumbs: false

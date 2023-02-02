@@ -2,7 +2,7 @@
 author: Nemo
 title: Notes on SegNet - A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
 date: 2023-01-31
-description: 
+summary: My Notes on the SegNet semantic segmentation architecture
 aliases: ["/SegNet"]
 math: true
 ShowBreadCrumbs: false
