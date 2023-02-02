@@ -12,7 +12,7 @@
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nd15.github.io/nemo/posts/segnet/</guid>
-      <description>Architecture SegNet is deep convolutional neural network which consists of corresponding encoder and decoder for pixel-wise semantic segmentation. The encoder encodes or downsamples the input images into low resolution feature maps and the decoder network upsamples these low resolution encoder feature maps into the original resolution feature maps. It is similar to other architectures such as UNet and DeconvNet, however it differs from them in some ways. Segnet was designed to be an efficient architecture for pixel-wise segmentation and was motivated for the use in road scene understanding.</description>
+      <description>My Notes on the SegNet semantic segmentation architecture</description>
     </item>
     
     <item>
@@ -21,8 +21,7 @@
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nd15.github.io/nemo/posts/rnn/</guid>
-      <description>Recurrent Neural Network(RNN) RNN Diagram Internal Architecture of RNN Internal RNN Architecture
-Forward Propagation In forward propagation, the input data is fed into the RNN in a forward direction to calculate the output at each timestep, for simplicity assume that each timestep is basically a word in a sentence so first timestep would indicate the input of the first word to the network, the input data passed through the input and hidden layer to the output layer where the output is predicted.</description>
+      <description>Notes consisting of the complete derivation of the forward and backpropagation rules in RNN.</description>
     </item>
     
     <item>
