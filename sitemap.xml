@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nd15.github.io/nemo/</loc>
-    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://nd15.github.io/nemo/posts/rnn/</loc>
-    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+    <loc>https://nd15.github.io/nemo/posts/segnet/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nd15.github.io/nemo/posts/</loc>
+    <lastmod>2023-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nd15.github.io/nemo/posts/rnn/</loc>
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://nd15.github.io/nemo/about/</loc>
