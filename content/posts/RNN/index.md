@@ -6,7 +6,7 @@ description:
 aliases: ["/RNN"]
 math: true
 ShowBreadCrumbs: false
----
+---      
 ### Recurrent Neural Network(RNN)
 ![regular](images/my_rnn_diagram.png "RNN Diagram")
 <p align="center">
