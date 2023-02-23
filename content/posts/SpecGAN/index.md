@@ -55,6 +55,8 @@ Upto 400 epochs
 | ![](images/generated_epoch_0/3.png) | ![](images/generated_epoch_100/3.png) | ![](images/generated_epoch_200/3.png) | ![](images/generated_epoch_300/3.png) | ![](images/generated_epoch_400/3.png) |
 | ![](images/generated_epoch_0/4.png) | ![](images/generated_epoch_100/4.png) | ![](images/generated_epoch_200/4.png) | ![](images/generated_epoch_300/4.png) | ![](images/generated_epoch_400/4.png) |
 
+## Implementation in Tensorflow 2
+Link : https://github.com/ND15/SpecGAN
 
 ## References
 1. https://arxiv.org/abs/1802.04208
